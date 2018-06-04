@@ -1,2 +1,1 @@
-# sample
-Test purpose
+Web shells for testing purpose
