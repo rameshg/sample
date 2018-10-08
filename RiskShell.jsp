@@ -3,7 +3,7 @@
 <body>
 <table>
 <%@ page import="java.util.*" %>
-<%@ page import="javax.sql.*;" %>
+<%@ page import="java.sql.*;" %>
 <% 
 
 java.sql.Connection con;
